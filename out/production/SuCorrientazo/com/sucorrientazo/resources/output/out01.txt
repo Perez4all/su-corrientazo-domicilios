@@ -1,0 +1,3 @@
+(-2,4) dirección WEST
+(-3,3) dirección NORTH
+(-4,6) dirección EAST
